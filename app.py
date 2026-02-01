@@ -93,6 +93,7 @@ st.sidebar.title('Startup Funding Analysis ')
 option = st.sidebar.selectbox('Select One', ['Overall Analysis', 'Startup','Investor'])
 
 if option == 'Overall Analysis':
+    pass
     # btn= st.sidebar.button('Show Overall Analysis')
     # if btn:
 elif option == 'Overall Analysis':
